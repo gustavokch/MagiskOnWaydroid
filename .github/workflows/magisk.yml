@@ -25,7 +25,7 @@ on:
       magisk_apk:
         description: "Magisk version"
         required: true
-        default: "26.1"
+        default: "delta"
         type: choice
         options:
         - 24.1
